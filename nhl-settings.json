@@ -1,18 +1,10 @@
 {
     "settings":{
-        "token":"NzQzMzE0Mjg4MTY4NDAyOTc1.XzS3YA.ZyDBNca1fgrIcAo-0HclnZ31tqk",
+        "token":"<insert discord api token here>",
         "guilds": {
-            "520433296732323860" : {
-                "channel": "737889363119308932",
+            "<insert discord server id here>" : {
+                "channel": "<instert discord channel id here>",
                 "leagues": "all"
-            },
-            "676155500575850514" : {
-                "channel": "802606299937767455",
-                "leagues": "phf"
-            },
-            "805575041479606292" : {
-                "channel": "805575041479606295",
-                "leagues": "none"
             }
         }
     },
