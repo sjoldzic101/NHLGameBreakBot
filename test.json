@@ -1,0 +1,23 @@
+{
+   "AWAYatHOME":{
+      "game_score":{
+         "AWAY":2,
+         "HOME":6,
+         "overtime":false,
+         "shootout":false,
+         "start_time":"2021-01-24T17:30:00Z"
+      },
+      "state":"FINAL",
+      "playoffs":false,
+      "latest_goal":{
+         "goal_scorer":"Most Recent Goal Scorer (1)",
+         "assisted_by":"Most Recent Primary Assister (1), Most Recent Secondary Assister (1)",
+         "goal_type":{
+            "powerplay":false,
+            "shorthanded":false,
+            "empty_net":false
+         }
+      }
+   }
+}
+

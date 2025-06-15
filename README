@@ -1,0 +1,26 @@
+This server package needs the following pip command on Python 3.6:
+"sudo python3.6 -m pip install backports-datetime-fromisoformat"
+
+In order to launch, open two tmux sessions.
+
+In the first tmux session, use Python 3.6 to run the goal scoring portion of the bot:
+python3.6 ./bot.py
+
+If reloading the bot after a crash, instead of the above command, use:
+python3.6 ./bot.py --reload
+
+Then type, Ctrl-B and D to detach from the tmux session.
+
+In the second tmux session, use Python 3.6 to launch the bot command line and AI:
+python3.6 ./ai.py --console --send-to-discord
+
+
+For development:
+
+- See nhl_gamebreak_lib.py for more information and available library routines for NHL GameBreak Bot.
+- In order to create custom get functions, create a script called "get_<insert intended get command here>.py" in the same folder as the "ai.py" file.
+   - In this file, define an entry point method called "exec_get_func(client = discord.Client(), param = None)" and return a string which will be sent as a message/reply to Discord. This method will be executed from "ai.py".
+   - The get command name is determined by the filename you chose above for the get command Python script.
+
+       
+Please excuse the ugly code, this was previously meant for my eyes only. Will clean it up soon.

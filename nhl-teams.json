@@ -1,0 +1,87 @@
+{
+    "WSH": {
+        "name":"Washington Capitals",
+        "emoji":":capitals:"
+    },
+    "ARI": {
+        "name":"Arizona Coyotes",
+        "emoji":":coyotes:"
+    },
+    "PHI": {
+        "name":"Philadelphia Flyers",
+        "emoji":":flyers:"
+    },
+    "PIT": {
+        "name": "Pittsburgh Penguins",
+        "emoji": ":penguins:"
+    },
+    "BOS": {
+        "name":"Boston Bruins",
+        "emoji":":bruins:"
+    },
+    "TBL": {
+        "name":"Tampa Bay Lightning",
+        "emoji":":lightning:"
+    },
+    "STL": {
+        "name":"St. Louis Blues",
+        "emoji":":blues:"
+    },
+    "COL": {
+        "name":"Colorado Avalanche",
+        "emoji":":avalanche:"
+    },
+    "VGK": {
+        "name":"Vegas Golden Knights",
+        "emoji":":vgk:"
+    },
+    "DAL": {
+        "name":"Dallas Stars",
+        "emoji":":stars:"
+    },
+    "TOR": {
+        "name":"Toronto Maple Leafs",
+        "emoji":":leafs:"
+    },
+    "CBJ": {
+        "name":"Columbus Blue Jackets",
+        "emoji":":jackets:"
+    },
+    "NYI": {
+        "name":"New York Islanders",
+        "emoji":":islanders:"
+    },
+    "CAR": {
+        "name":"Carolina Hurricanes",
+        "emoji":":hurricanes:"
+    },
+    "MTL": {
+        "name":"Montréal Canadiens",
+        "emoji":":canadiens:"
+    },
+    "CHI": {
+        "name":"Chicago Blackhawks",
+        "emoji":":chicago:"
+    },
+    "VAN": {
+        "name":"Vancouver Canucks",
+        "emoji":":canucks:"
+    },
+    "MIN": {
+        "name":"Minnesota Wild",
+        "emoji":":wild:"
+    },
+    "CGY": {
+        "name":"Calgary Flames",
+        "emoji":":flames:"
+    },
+    "EDM": {
+        "name": "Edmonton Oilers",
+        "emoji":":oilers:"
+    },
+    "FYEAH": {
+        "name": "FYeah Ace Hockey",
+        "emoji":":fyeah:"
+    }
+}
+    
